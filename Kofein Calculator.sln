@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kofein Calculator", "Kofein Calculator\Kofein Calculator.csproj", "{683F96B6-3E6C-4571-AB98-514C9F772D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683F96B6-3E6C-4571-AB98-514C9F772D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683F96B6-3E6C-4571-AB98-514C9F772D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683F96B6-3E6C-4571-AB98-514C9F772D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683F96B6-3E6C-4571-AB98-514C9F772D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C99822-BA86-4BC1-A52A-E40802EC1260}
+	EndGlobalSection
+EndGlobal
